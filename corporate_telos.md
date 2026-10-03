@@ -1,200 +1,401 @@
-## Document Purpose
+# IMAGINESOFTWARE / IMAGINEONE — PRODUCT TELOS
 
-This document captures the SPQA policy and State for Alma Security, a security startup out of Redwood City, Ca.
+## DOCUMENT PURPOSE
 
-This is part of the SPQA context that will be used to answer questions and create artifacts for the company, e.g., company strategy, security strategy, quarterly security reports (QSRs), project plans, recommendations on which projects to undertake, which investments to take and avoid, and other such decisions.
+This document captures durable strategic context for Joseph Rampey's product leadership work at ImagineSoftware / ImagineOne.
 
-A major aspect of the SPQA system is the definition of the company's mission, goals, KPIs, and challenges. These shape everything within the company and thus should be used to shape the recommendations made when asked.
+Its purpose is to help Joseph and AI systems reason from the company's and product organization's objectives rather than treating individual requests, tickets, client escalations, or features as isolated work.
 
-In addition to the clearly stated goals and other defining characteristics listed above, there will also be a streaming list of updates coming into this system using the Activity document.
+The core reasoning chain is:
 
-Those will be changes, updates, or modifications to the direction of the company. For example, if Goal number 4 is to build a new datacenter in Boise, Idaho, but we see an update in the Activity section that says we've lost the ability to build in Boise, we should consider goal #4 out of the picture for prioritization and other decision purposes. In other words, the streaming activity log into this document should be considered updates to the core content.
+**Problems -> Mission -> Narratives -> Goals -> Challenges/Risks -> Strategies -> KPIs -> Initiatives -> Current State**
 
-## Company History
+This is a strategic context file, not a substitute for live company systems. Current roadmap status, client commitments, revenue, ticket counts, staffing, dates, regulatory status, and other changing facts must be retrieved from authoritative current sources before being presented as fact.
 
-Alma Security was started by Chris Meyers, who was previously at Sigma Systems as CTO and HPE as a senior security engineer.
+## CONTEXT
 
-He started the company becuase, "I saw a gap in the authentication market, where companies were only looking at one or two aspects of one's identity to do authentication. They we're looking at the whole picture and turning that into a continuous authentication story."
+- Industry: Healthcare technology.
+- Primary domain: Revenue Cycle Management (RCM).
+- Company/product context: ImagineSoftware / ImagineOne.
+- Joseph Rampey serves as Senior Director of Product Management.
+- Joseph's professional mission is to help drive ImagineSoftware toward becoming the leading healthcare systems platform.
+- Product leadership spans product strategy, roadmap prioritization, client experience, QA/automation, integrations, healthcare workflows, and cross-functional execution.
+- The product organization operates in an environment where client needs, operational needs, regulatory change, integrations, defects, strategic investments, and competitive pressure all compete for capacity.
 
-## Company Mission
+## CORE PROBLEMS
 
-The mission of Alma Security is to ensure businesses can continuously authenticate their users using their whole selves.
+- P1: Cross-department handoffs can create rework, duplicated effort, delays, lost context, and an inconsistent client experience.
+- P2: Client urgency can pull product development into reactive prioritization at the expense of strategic roadmap work.
+- P3: Without clear KPIs, organizational friction and repeated work can remain anecdotal rather than measurable.
+- P4: Requests can enter through multiple channels, making it difficult to distinguish systemic product needs from one-off requests.
+- P5: Product, QA, implementation, support, operations, and other teams can optimize locally while unintentionally degrading the end-to-end client journey.
+- P6: Manual QA and repetitive operational work limit scalability and slow feedback.
+- P7: Healthcare RCM is complex and changes through regulation, payer behavior, client expectations, competitive technology, automation, and AI.
+- P8: Technical and workflow integrations can create hidden dependencies across systems and departments.
+- P9: Roadmap decisions become difficult when strategic value, client impact, operational cost, technical risk, and effort are not evaluated consistently.
+- P10: A platform can accumulate disconnected capabilities unless product architecture and roadmap decisions reinforce a coherent long-term direction.
 
-## Company Goals (G1 means goal 1, G2 is goal 2, etc. Treat each item (goal/kpi/etc) as half as important as the one before it.)
+## PRODUCT LEADERSHIP MISSION
 
-NOTE: Some goals are things like project rollouts which serve the higher goals. In that case they shouldn't always be considered so much lower priority because one is serving the other.
+- M1: Drive ImagineSoftware toward becoming the leading healthcare systems platform.
+- M2: Create a client journey that feels coherent across departmental boundaries.
+- M3: Move the organization from reactive request fulfillment toward proactive product leadership.
+- M4: Build measurable systems that expose rework, duplication, bottlenecks, quality problems, and repeat demand.
+- M5: Improve the speed and quality of product decisions by making priorities, evidence, tradeoffs, and ownership explicit.
 
-## Company Goals
+## PRODUCT NARRATIVE
 
-- G1: Achieve 20% market share by January 2025
-- G2: Hit 10000 active customers by January 2025
-- G3: Hit a customer trust score of 90+% by January 2025
-- G4: Get churn below 5% by August 2024
-- G5: Launch in Europe by August 2024
-- G6: Launch in India by November 2024
-- G7: Launch Mood-monitor integration by February 2024
-- G8: Launch partnership with Apple Passkeys by June 2024
+ImagineSoftware should operate as a platform company rather than a collection of disconnected requests and workflows.
 
-## Company KPIs
+The product organization should understand the entire client journey, identify recurring friction, and solve root causes at the product or process level. Individual client requests are valuable evidence, but they should not automatically become roadmap priorities.
 
-- K1: Current marketshare percentage
-- K2: Number of active customers
-- K3: Current churn percentage
-- K4: Launched_in_Europe (yes/no)
-- K4: Launched_in_India (yes/no)
+The desired operating model is proactive: understand market direction, regulatory change, client workflows, competitive threats, technical opportunities, and internal friction early enough to shape the roadmap deliberately.
 
------------------------------------------------------------------------------------------------------------------------
+Product leadership should make tradeoffs visible. A strong roadmap explains not only what is being built, but which problem it solves, which company objective it advances, how success will be measured, and what is intentionally not being prioritized.
 
-## Security Team Mission 
+Quality is part of product strategy. QA automation, clearer acceptance criteria, earlier validation, and better handoffs should shorten feedback loops and reduce expensive downstream rework.
 
-- SM1: Protect Alma Security's customers and intellectual property from security and privacy incidents.
+## GOALS
 
-## Security Team Goals
+Goals are listed by strategic theme rather than implying a numerical priority order.
 
-- SG1: Secure all customer data -- especially biometric -- from security and privacy incidents. 
-- SG2: Protect Alma Security's intellectual property from being captured by unathorized parties.
-- SG3: Reach a time to detect malicious behavior of less than 4 minutes by January 2025
-- SG4: Ensure the public trusts our product, because it's an authentication product we can't survive if people don't trust us.
-- SG5: Reach a time to remediate critical vulnerabilties on crown jewel systems of less than 16 hours by August 2025
-- SG6: Reach a time to remediate critical vulnerabilties on all systems of less than 3 days by August 2025
-- SG7: Complete audit of Apple Passkey integration by February 2025
-- SG8: Complete remediation of Apple Passkey vulns by February 2025
+### Client Journey
 
-## Security Team KPIs (How we measure the team)
+- G1: Create clean, explicit handoffs between departments throughout the client lifecycle.
+- G2: Reduce repeated requests for information already supplied elsewhere in the client journey.
+- G3: Reduce avoidable rework caused by unclear ownership, incomplete requirements, or failed handoffs.
+- G4: Make the experience feel like one coordinated company rather than a sequence of disconnected departments.
 
-- SK1: TTD: Time to detect malicious behavior (Minutes)
-- SK1: TTI: Time to begin investigation of malicious behavior (Minutes)
-- SK3: TTR-CJC: Time to remediate critical vulnerabilities on crown jewel systems (Hours)
-- SK3: TTR-C: Time to remediate critical vulnerabilities on all systems (Hours)
-- SK4: PT: Public trust score (Complete, Significant, Moderate, Minimal, Distrust, N/A)
+### Product Strategy
 
-## Risk Register (The things we're most worried about)
+- G5: Maintain a clear product roadmap tied to company objectives and market needs.
+- G6: Increase the proportion of roadmap capacity devoted to proactive strategic work.
+- G7: Establish consistent prioritization criteria across feature requests, client needs, defects, technical investments, and strategic initiatives.
+- G8: Identify recurring client requests that indicate scalable product opportunities.
+- G9: Strengthen ImagineOne as a coherent platform rather than allowing capabilities to fragment into isolated solutions.
 
-- R1: Our infrastructure security team is understaffed by 50% after 5 key people left 
-- R2: We are not currently monitoring our external perimeter for attack surface related vulnerabilities like open ports, listening applications, unknown hosts, unknown subdomains pointing to these things, etc. We only do scans once every couple of months and we don't really have anyone to look at the results
-- R3: It takes us multiple days to investigate potential malicious behavior on our systems.
-- R4: We lack a full list of our assets, including externally facing hosts, S3 buckets, etc., which make up our attack surface
-- R5: We have a low public trust score due to the events of 2022.
+### Measurement
 
-## Security Team Narrative
+- G10: Establish KPIs that expose rework, duplication, repeated requests, bottlenecks, quality failures, and handoff friction.
+- G11: Create enough instrumentation to identify where the organization is repeatedly spending effort on the same underlying problem.
+- G12: Use trend data to evaluate whether product/process changes actually improve outcomes.
 
-### Background
+### Quality & Delivery
 
-Alma hired a new security team starting in January of 2023 and we have been building out the program since then. The philosophy and approach for the security team is to explicitly articulate what we believe the highest risks are to Alma, to deploy targeted strategies to address those risks, and to use clear, transparent KPIs to show progress towards our goals over time.
+- G13: Increase meaningful QA automation where it shortens feedback cycles and reduces regression risk.
+- G14: Reduce escaped defects and repeat defects.
+- G15: Improve requirements clarity and testability before development begins.
+- G16: Reduce the amount of work that moves backward in the delivery lifecycle because required context was missing earlier.
 
-### Current Risks
+### Market & Platform
 
-So our risk register looks like this:
+- G17: Maintain current awareness of material RCM market, regulatory, competitor, and technology changes.
+- G18: Identify platform opportunities where shared capabilities can solve multiple client or workflow problems.
+- G19: Evaluate AI and automation based on measurable workflow value rather than novelty.
+- G20: Design integrations and workflows with interoperability, reliability, observability, and supportability in mind.
 
-1. We are understaffed by 50% after 5 key people left in 2022
-2. Our perimeter is not being monitored for attack surface related vulnerabilities
-3. It takes us too long to detect and start investigating malicious behavior on our systems
-4. We do not have a full list of our assets, which makes it difficult to know what we need to protect
-5. We have a low public trust score due to the events of 2022 
+## CHALLENGES / RISKS
 
-### Strategies
+- R1: High-value strategic roadmap work can be displaced by urgent incoming client requests.
+- R2: The loudest stakeholder can receive disproportionate influence if prioritization criteria are not explicit.
+- R3: Teams may measure output—tickets closed, features shipped, projects completed—without measuring whether the underlying problem improved.
+- R4: Data required for useful cross-functional KPIs may live in different systems or use inconsistent definitions.
+- R5: Handoff problems can be misdiagnosed as individual performance problems when the underlying issue is process or system design.
+- R6: Automation can accelerate a bad process if the process is not understood before it is automated.
+- R7: QA automation can create false confidence if coverage measures quantity rather than meaningful business risk.
+- R8: Client-specific customization can increase long-term platform complexity and support cost.
+- R9: Regulatory and payer changes can rapidly alter priorities in healthcare RCM.
+- R10: Competitive products may reset client expectations faster than annual planning cycles.
+- R11: Integrations involving telephony, payments, clearinghouses, payers, identity, credentialing, or other external systems introduce dependencies outside ImagineSoftware's direct control.
+- R12: A roadmap without explicit capacity allocation can become a backlog sorted by urgency.
 
-As such, our strategies are as follows:
+## STRATEGIES
 
-1. Hire 5 more A-tier security professionals
-2. Purchase and implement an attack surface management solution
-3. Invest in our detection and response capabilities
-4. Purchase an asset inventory system that integrates with our attack surface management tool
-5. Leverage PR to share as much of our progress as possible with the public to rebuild trust
+### Strategy 1 — Manage the Client Journey as a System
 
-### How We're Doing
+- Map major client lifecycle stages and departmental handoffs.
+- Define accountable ownership at each transition.
+- Establish entry and exit criteria for important handoffs.
+- Identify information repeatedly requested from clients.
+- Measure where work is rejected, returned, reopened, or duplicated.
+- Solve recurring friction at the process or product level.
 
-We believe being transparent about our progress is key to everything, and for that reason we maintain a limited number of KPIs that we update every quarter. These metrics will not change often. They will remain consistent so that it's easy to track how we're spending our resources and the progress we're making.
+### Strategy 2 — Establish Evidence-Based Prioritization
 
-Those KPIs are:
+Evaluate meaningful roadmap candidates using a consistent set of factors such as:
 
-1. Time to detect malicious behavior
-2. Time to start investigating malicious behavior
-3. Time to remediate critical vulnerabilities on crown jewel systems
-4. Time to remediate critical vulnerabilities on all systems
-5. Our public trust score
+- Strategic alignment.
+- Client/user impact.
+- Breadth of affected users or workflows.
+- Revenue or retention relevance when known.
+- Operational burden reduced.
+- Risk/compliance relevance.
+- Frequency of the underlying problem.
+- Competitive or market relevance.
+- Engineering effort and complexity.
+- Dependency risk.
+- Long-term platform leverage.
 
-As of $DATE$, our KPIs for these are currently:
+Do not fabricate a mathematical score when reliable inputs do not exist. The purpose is consistency and transparency, not false precision.
 
-$GIVE CURRENT KPIs from the Activity section below$
+### Strategy 3 — Protect Proactive Roadmap Capacity
 
-$INSERT GRAPHS OF KPI PROGRESS OVER TIME HERE$
+Separate roadmap capacity conceptually among:
 
-## Security Team Strategies
+- Strategic product investment.
+- Client-driven needs.
+- Quality / defects.
+- Technical health.
+- Regulatory/compliance requirements.
+- Discovery / experimentation.
 
-- STS1: Hire 5 more A-tier security professionals
-- STS2: Purchase an attack surface management solution
-- STS3: Invest in our detection and response capabilities
-- STS4: Purchase an asset inventory system that integrates with our attack surface management tool
+Actual percentages should be based on leadership decisions and current capacity rather than invented in this document.
 
-## Infrastructure Notes (a basic description of our tech stack and various context around it)
+### Strategy 4 — Instrument Organizational Friction
 
-- We currenty have no WAF protecting our main web app but we're considering adding one
-- We have had some issues with S3 buckets becoming public, or being set up as public, which has lead to some close calls with customer data almost being exposed.
-- alma.amazon-domain.com is our primary S3 bucket that contains everything, but it's not public readable or listable
-- We have a root account for our AWS account that doesn't yet have 2FA on it, but we're working on fixing that within a few weeks (but it's been open for a few months)
-- We also use Postgres for all our databases.
-- Developers have root access to the all kubernetes nodes via SSH on port 45,001 using a shared developer key issued during laptop provisioning. 
-- We're a kubernetes shop and do everything through AWS
-- We're logging most stuff to Cloudtrail and we kind of use guarduty, but we don't have a 24/7 team to monitor alerts and logs. We should add that to our list of challenges next time we update our overarll policy
-- We also have a Windows infrastructure because some key personell came from Microsoft. The DC is hosted in our head office which is in Redwood City, and anyone who works in that office (most of the 300 employees) uses that to log in when tehy start work. The domain is ALMA.
-- There's a domain-joined fileserver running Windows 2012 that most people use to upload new ideas and plans for new products. It uses Windows authentication from the domain. 
-- We use a palo alto firewall with 2fa using windows authenticator tied to SSO.
-- The name of the AI system doing all this context creation using SPQA is Alma, which is also the name of the company.
-- We use Workday for HR stuff. Slack for realtime communications. Outlook 365 as a service. Sentinel One on the workstations and laptops. Servers in AWS are mostly Amazon Linux 2 with a few Ubuntu boxes that are a few years old. 
-- We also primarily use Postgres for all of our systems.
+Build reporting capable of answering:
 
-## Team
+- Where does work move backward?
+- Where are clients asked for the same information twice?
+- Which request categories recur?
+- Which defects recur?
+- Which departments generate or receive the most rework?
+- How long do handoffs wait?
+- Which workflows require excessive manual intervention?
+- Which roadmap investments measurably reduced support or operational burden?
 
-TEAM MEMBER | TEAM ASSIGNED | SKILLS | PAY LEVEL | LOCATION | PROJECTS
+### Strategy 5 — Shift Quality Left
 
-Nadia Khan | Detection and Response | D&R (Expert), AWS (Strong), Python (Expert), Kubernetes (Basic), Postgres (Basic) | $249K | Redwood City
-Chris Magann | Vulnerability Management | VM (Expert), AWS (Strong), Python (Basic), Postgres (Basic) | $212K | Redwood City
-Tigan Wang | Vulnerability Management | VM (Expert), AWS (Strong), Python (Basic), Postgres (Basic) | $217K | Redwood City
+- Make acceptance criteria testable.
+- Involve QA early enough to identify ambiguity before implementation.
+- Automate high-value regression paths.
+- Prioritize automation based on business risk and repetition.
+- Analyze escaped defects for systemic causes.
+- Treat repeated defects as process signals, not merely isolated bugs.
 
-## Projects
+### Strategy 6 — Build Platform Leverage
 
-PROJECT NAME | PROJECT DESCRIPTION | PROJECT PRIORITY | PROJECT MEMBERS | START DATE | END DATE | STATUS | PROJECT COST
+When evaluating a request, ask:
 
-WAF Install | Install a WAF in front of our main web app | Critical | Nadia Khan | 2024-01-01 - Ongoing | In Progress | $112K one-time, $9K/month
+1. Is this unique to one client or evidence of a broader workflow need?
+2. Can a configurable platform capability solve it for multiple clients?
+3. Does the solution reinforce or fragment the platform architecture?
+4. What operational/support burden does it create?
+5. Can the capability become reusable infrastructure for future products?
 
-Multi-Factor Authentication (MFA) Rollout | Implement MFA across all internal and external systems | Critical | Chris Magaan | 2024-01-15 | 2024-05-01 | Planned | $80K one-time, $5K/month 
+### Strategy 7 — Maintain External Awareness
 
-Procure and Implement ASM | Implement continuous monitoring for attack surface vulnerabilities | High | Tigan Wang | 2024-02-15 | 2024-06-15 | Not Started | $75K one-time, $6K/month 
+Continuously monitor material developments in:
 
-Data Encryption Upgrade | Upgrade encryption protocols for all sensitive data | Medium | Nadia Khan | 2024-04-01 | 2024-08-01 | Planned | $95K one-time 
+- Healthcare RCM.
+- No Surprises Act and Independent Dispute Resolution.
+- Payer/provider workflow changes.
+- Healthcare AI and automation.
+- RCM competitors and emerging vendors.
+- Payments and patient financial engagement.
+- Credentialing.
+- Clearinghouse/integration ecosystems.
+- Regulatory or market changes that materially affect product strategy.
 
-Incident Response Enhancement | Develop and implement a 24/7 incident response team | High | Nadia Khan | 2024-03-01 | 2024-07-01 | In Progress | $150K one-time, $10K/month 
+## KPI FRAMEWORK
 
-Cloud Security Optimization | Optimize AWS cloud security configurations and practices | Medium | Tigan Wang | 2024-02-01 | 2024-06-01 | In Progress | $100K one-time, $8K/month 
+These are KPI definitions/categories, not claims about current performance.
 
-S3 Bucket Security | Review and secure all S3 buckets to prevent data breaches | High | Chris Magaan | 2024-01-10 | 2024-04-10 | In Progress | $70K one-time, $5K/month
+### Client Journey KPIs
 
-SQL Injection Mitigation | Implement measures to eliminate SQL injection vulnerabilities | High | Tigan Wang | 2024-01-20 | 2024-05-20 | Not Started | $60K one-time 
+- K1: Handoff cycle time — elapsed time between a team completing its work and the receiving team successfully accepting it.
+- K2: Handoff rejection/return rate — percentage of handoffs returned because required information or work is incomplete.
+- K3: Repeat information request rate — frequency with which clients are asked for information already supplied.
+- K4: Client journey rework rate — work repeated because an earlier step was incomplete, incorrect, or lost.
+- K5: Time-to-value — time from an agreed starting point to the client receiving meaningful usable value, where measurable.
 
-## CURRENT STATE (KPIs, Metrics, Project Activity Updates, etc.)
-- October 2022: Current time to detect malicious behavior is 81 hours
-- October 2022: Current time to start investigating malicious behavior is 82 hours
-- October 2022: Current time to remediate critical vulnerabilities on crown jewel systems is 21 days
-- October 2022: Current time to remediate critical vulnerabilities on all systems is 51 days
-- January 2023: Current time to detect malicious behavior is 62 hours
-- January 2023: Current time to start investigating malicious behavior is 72 hours
-- January 2023: Current time to remediate critical vulnerabilities on crown jewel systems is 17 days
-- January 2023: Current time to remediate critical vulnerabilities on all systems is 43 days
-- July 2023: Current time to detect malicious behavior is 29 hours
-- July 2023: Current time to start investigating malicious behavior is 41 hours
-- July 2023: Current time to remediate critical vulnerabilities on crown jewel systems is 12 days
-- July 2023: Current time to remediate critical vulnerabilities on all systems is 29 days
-- November 2023: Current time to start detect malicious behavior is 12 hours
-- November 2023: Current time to start investigating malicious behavior is 16 hours
-- November 2023: Current time to remediate critical vulnerabilities on crown jewel systems is 9 days
-- November 2023: Current time to remediate critical vulnerabilities on all systems is 17 days
-- February 2024: Started attack surface management vendor selection process
-- January 2024: Current time to start detect malicious behavior is 9 hours
-- January 2024: Current time to start investigating malicious behavior is 14 hours
-- January 2024: Current time to remediate critical vulnerabilities on crown jewel systems is 8 days
-- January 2024: Current time to remediate critical vulnerabilities on all systems is 12 days
-- March 2024: We're now remediating crits on crown jewels in less than 6 days
-- April 2024: We're now remediating all criticals within 11 days
-- July 2024: Criticals are now being fixed in 9 days
-- On August 5 we got remediation of critical vulnerabilities down to 7 days
+### Product KPIs
+
+- K6: Strategic roadmap allocation — share of delivery capacity directed toward deliberate strategic priorities versus reactive work.
+- K7: Roadmap predictability — planned work delivered within the agreed planning horizon, interpreted carefully so teams are not incentivized to sandbag.
+- K8: Repeat-request concentration — recurring request themes indicating potential scalable product gaps.
+- K9: Product outcome attainment — percentage of initiatives achieving their explicitly defined outcome metric.
+
+### Quality KPIs
+
+- K10: Escaped defect rate.
+- K11: Repeat/regression defect rate.
+- K12: Automated coverage of identified high-risk regression workflows.
+- K13: Defect detection stage — where defects are discovered across development, QA, implementation, support, or production.
+- K14: Reopen rate — work believed complete that returns to active work because acceptance criteria were not met.
+
+### Operational Efficiency KPIs
+
+- K15: Rework hours or equivalent effort where reliable measurement is possible.
+- K16: Duplicate-work incidence.
+- K17: Manual-touch count for selected high-volume workflows.
+- K18: Queue/wait time between process stages.
+- K19: Repeated client-contact rate for the same underlying issue.
+
+KPI definitions should be stable enough for trend analysis. Changes to definitions should be documented so apparent improvement is not created by changing measurement rules.
+
+## DECISION PRINCIPLES
+
+- DP1: Start with the problem, not the requested feature.
+- DP2: Ask what measurable outcome would indicate success.
+- DP3: Prefer scalable solutions over repeated one-off intervention.
+- DP4: Consider the entire client journey, not only the team currently holding the work.
+- DP5: Distinguish urgency from importance.
+- DP6: Make opportunity cost visible.
+- DP7: Do not allow a single anecdote to substitute for evidence, but do not ignore anecdotes that reveal serious risk.
+- DP8: Preserve room for discovery when evidence is incomplete.
+- DP9: Treat quality, supportability, and operability as product requirements.
+- DP10: Prefer simple workflows and clear ownership.
+- DP11: Do not automate unnecessary work; remove it when possible.
+- DP12: A roadmap item should be traceable to a strategic goal, material risk, regulatory requirement, or validated user/client problem.
+
+## PRODUCT OPERATING MODEL
+
+For significant initiatives, product artifacts should ideally identify:
+
+- Problem statement.
+- Evidence.
+- Affected users/clients/workflows.
+- Strategic goal served.
+- Desired outcome.
+- Success metric.
+- Scope.
+- Non-goals.
+- Dependencies.
+- Risks.
+- Acceptance criteria.
+- Rollout/validation approach.
+- Owner.
+- Decision history where useful.
+
+For cross-functional initiatives, explicitly identify upstream and downstream teams and the handoffs between them.
+
+## RECURRING INITIATIVE AREAS
+
+These are durable initiative families. They do not imply that every item is currently active.
+
+### Client Journey & Handoffs
+
+- Map departmental handoffs.
+- Identify repeated requests and rework.
+- Establish measurable handoff quality.
+- Improve ownership visibility.
+- Reduce unnecessary client contacts.
+
+### QA & Automation
+
+- QA automation roadmap.
+- Regression automation.
+- Earlier test planning.
+- Defect trend analysis.
+- Release confidence and validation.
+
+### Integrations & Communications
+
+- Telephony / IVR workflows.
+- SIP REFER and related call-transfer behavior where applicable.
+- UUI / contextual information transfer where applicable.
+- Twilio and other communications integrations where applicable.
+- External-system dependency management.
+
+### Credentialing & Healthcare Workflows
+
+- Credentialing-related product workflows.
+- Healthcare administrative workflows.
+- HIPAA-related product/business context where applicable.
+- Automation opportunities that reduce repetitive administrative work.
+
+### RCM Intelligence
+
+Recurring market/competitive areas Joseph has examined include organizations and technologies such as:
+
+- Waystar.
+- Candid Health.
+- Coronis.
+- Somnia.
+- Flatiron-related RCM developments.
+- Prosper AI.
+- Regal AI.
+- Thrive.
+- Opus.
+
+This list is contextual, not an assertion that each company is a direct competitor in every product segment. Current relationships, offerings, and market developments should be verified before analysis.
+
+### Regulatory Intelligence
+
+- No Surprises Act.
+- Independent Dispute Resolution.
+- Other regulatory changes with material RCM workflow or product impact.
+
+## AI / AUTOMATION PRINCIPLES
+
+- AI should remove friction or improve decisions, not merely add an AI-branded interface.
+- Evaluate AI opportunities by workflow impact, accuracy requirements, human review needs, failure modes, and measurable economic value.
+- High-volume repetitive workflows are strong automation candidates when rules and exceptions are sufficiently understood.
+- Human judgment should remain explicit where errors create meaningful clinical, financial, regulatory, or client risk.
+- AI-generated recommendations should expose evidence and uncertainty when consequential decisions depend on them.
+
+## EXECUTIVE COMMUNICATION STANDARD
+
+When preparing product recommendations for leadership:
+
+1. State the decision or issue clearly.
+2. Explain why it matters to the business/client.
+3. Present the relevant evidence.
+4. Identify material options and tradeoffs.
+5. State dependencies and risks.
+6. Recommend a next action when the evidence supports one.
+7. Identify how success will be measured.
+
+Avoid burying the business decision under implementation detail unless that detail materially changes the decision.
+
+## SOURCE-OF-TRUTH RULES
+
+This file should contain durable context and strategy.
+
+Before making current-state claims, retrieve fresh information for:
+
+- Roadmap status.
+- Release dates.
+- Client commitments.
+- Ticket volumes.
+- Defect counts.
+- KPI values.
+- Revenue or financial impact.
+- Staffing.
+- Vendor status.
+- Competitive announcements.
+- Regulatory status.
+- Project completion.
+- Production incidents.
+
+Do not infer missing company data from Joseph's personal context.
+
+## CURRENT DIRECTION — 2026
+
+Based on established product-leadership context, the current strategic direction includes:
+
+- Improve departmental handoffs to create a better end-to-end client experience.
+- Establish KPIs that reveal rework, duplication, repeated requests, and bottlenecks.
+- Build a clear roadmap that shifts the organization toward proactive rather than reactive product management.
+- Improve prioritization and alignment to company objectives.
+- Continue strengthening QA and automation.
+- Maintain awareness of important RCM competitors, technology shifts, and regulatory developments.
+- Evaluate integrations and automation through the lens of platform leverage and measurable workflow improvement.
+
+## UPDATE RULES
+
+When maintaining this TELOS:
+
+1. Preserve durable strategy separately from temporary project status.
+2. Do not invent KPI values, company financials, client counts, roadmap commitments, or dates.
+3. Add a new strategic goal only when it reflects an actual leadership direction.
+4. Record material changes in direction in the log.
+5. Retire goals or strategies that are no longer relevant rather than allowing contradictory context to accumulate.
+6. Keep initiatives traceable to problems and goals.
+7. Prefer authoritative company sources for current operational facts.
+8. Treat confidential client/company information according to its appropriate access and handling requirements.
+
+## LOG
+
+- 2026-10-03: Replaced the upstream fictional Alma Security example with an ImagineSoftware / ImagineOne product-leadership TELOS based on Joseph Rampey's established professional mission, goals, recurring work, and product-management context.
