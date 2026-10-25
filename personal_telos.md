@@ -280,6 +280,15 @@ Metrics should not be invented when source data is unavailable.
 - Continue building a family-centered home environment through gardening, outdoor projects, organization, homeschooling, and shared traditions.
 - Use TELOS as durable context so future AI work can begin with an understanding of Joseph's priorities instead of reconstructing them from scratch.
 
+## MEMORABLE FAMILY QUOTES
+
+A place to preserve the funny, meaningful, and distinctly-us things said in ordinary family life.
+
+### Ava
+
+- **Daddy:** “Ava, don’t throw that at me.”  
+  **Ava:** “I’m not throwing it. I’m handing it to you quickly.”
+
 ## UPDATE RULES
 
 When maintaining this file:
