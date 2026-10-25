@@ -53,6 +53,9 @@ These strengths should shape how I approach leadership and decisions: hold convi
 - **Proactive relational check-ins:** I do not consistently ask people how they are doing during ordinary life. I can wait until something significant happens before intentionally checking in.
 - I want to become more proactive about showing care before there is a problem, crisis, major event, or obvious reason to reach out.
 - Growth here means making ordinary, genuine check-ins part of how I maintain relationships rather than allowing concern for people to remain mostly implicit.
+- **Work-life balance:** I can allow work and professional responsibility to consume time and attention that I want to give more intentionally to my family.
+- I want to spend more meaningful, present time with Katie, Ava, and Fox—not simply be physically home while mentally occupied by work.
+- Growth here means creating healthier boundaries around work, protecting family time, and evaluating professional success partly by whether it supports rather than crowds out the family life I value most.
 
 ## PROBLEMS
 
