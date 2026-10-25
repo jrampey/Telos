@@ -48,6 +48,12 @@ These strengths should shape how I approach leadership and decisions: hold convi
 - Joseph appreciates direct answers and wants unnecessary complexity stripped away.
 - For political and civic topics, Joseph prefers issue-by-issue factual analysis, historical actions and voting records over partisan framing.
 
+## GROWTH AREAS
+
+- **Proactive relational check-ins:** I do not consistently ask people how they are doing during ordinary life. I can wait until something significant happens before intentionally checking in.
+- I want to become more proactive about showing care before there is a problem, crisis, major event, or obvious reason to reach out.
+- Growth here means making ordinary, genuine check-ins part of how I maintain relationships rather than allowing concern for people to remain mostly implicit.
+
 ## PROBLEMS
 
 - P1: Too much work in organizations is reactive, fragmented, duplicated, or poorly handed off between teams.
