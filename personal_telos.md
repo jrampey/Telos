@@ -25,6 +25,15 @@ Use this file as a baseline, not as a frozen biography. Prefer durable context h
 - Joseph enjoys being outdoors, especially woods, fire pits, gardening, yard work, landscaping, and improving the family's property.
 - He enjoys technology, home networking, open-source projects, retro video games from the 1980s–2000s, MiSTer FPGA, and building useful systems.
 
+## CORE STRENGTHS
+
+- **Teachable:** I am willing to learn, receive correction, reconsider my assumptions, and grow when better information or wisdom is available.
+- **Open-minded:** I try to hear different perspectives fairly and remain willing to change my mind rather than defending a position simply because it is mine.
+- **Gentle strength:** I believe real strength can be expressed through gentleness, patience, kindness, and self-control. Strength does not require harshness.
+- **Kindness:** I want the way I lead, parent, work, and interact with others to reflect genuine care and respect for people.
+
+These strengths should shape how I approach leadership and decisions: hold convictions without becoming rigid, remain confident without becoming prideful, receive feedback without becoming defensive, and treat people with kindness without confusing kindness with weakness.
+
 ## VALUES & DECISION PRINCIPLES
 
 - Family comes before optimization for its own sake.
