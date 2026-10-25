@@ -282,12 +282,101 @@ Metrics should not be invented when source data is unavailable.
 
 ## MEMORABLE FAMILY QUOTES
 
-A place to preserve the funny, meaningful, and distinctly-us things said in ordinary family life.
+A place to preserve the funny, meaningful, and distinctly-us things said in ordinary family life. Quotes are grouped by child so each can grow into a collection over time.
 
 ### Ava
 
-- **Daddy:** “Ava, don’t throw that at me.”  
-  **Ava:** “I’m not throwing it. I’m handing it to you quickly.”
+#### Picnic — March 3, 2022
+- **Ava:** “I’m going to ride on a rocket ship.”
+- **Me:** “I’m going to miss you.”
+- **Ava:** “We’re going to do it together.” ♥️🥺
+
+#### “Are you serious?”
+- **Me:** “Are you serious?”
+- **Ava:** “Are you serious?”
+- **Me:** “Are you serious?”
+- **Ava:** “You’re giving me a headache.”
+
+#### “It was exhilarating”
+Ava was fussing because she wanted chocolate ice cream with sprinkles, but Chick-fil-A only had chocolate milkshakes, so she settled on a milkshake. She talked about how yummy it was all the way home.
+
+- **Ava:** “Mommy, my ice cream was really good.”
+- **Me:** “Good—that was called a milkshake.”
+- **Ava:** “It was exhilarating.”
+- **Me:** “Did you say exhilarating?”
+- **Ava:** “Yeah.”
+- **Me:** “What does exhilarating mean?”
+- **Ava:** “It means good.”
+
+#### Charleston Crab House
+- **Me:** “Ava, what do you want to eat?”
+- **Ava:** “Noodles.”
+- **Me:** “I don’t think they have noodles here.”
+- **Ava:** “I can smell them.”
+- *Looks at the menu. They have noodles.* 😂
+
+#### Going to space — age 4
+- **Ava:** “I want to go to space.”
+- **Mom:** “I’ll miss you.”
+- **Ava:** “You can visit.”
+- **Mom:** “How will I get there?”
+- **Ava:** “Buy a rocket ship.”
+- **Mom:** “Rocket ships are expensive.”
+- **Ava:** “You can go to the bank and ask them for the money.”
+
+#### “It was a lot of lurds”
+- **Ava:** “Lurd, lurd, lurd, lurd, lurd…” *(on repeat for several minutes, then suddenly stops)*
+- **Mom:** “Are you okay?”
+- **Ava:** *(out of breath)* “Yeah. It was a lot of lurds.”
+
+#### Ava pronunciations
+- “Post nasal” → **“poisonous”** ☠️
+- “Marble” → **“mar ball”**
+
+#### Cereal — age 5
+- **Me:** “Ava, what kind of cereal do you want?”
+- **Ava:** “The kind with the milk.”
+- **Me:** “Yes, but which one?”
+- **Ava:** “The one with the hay.”
+- **Me:** 🤨
+- **Ava:** “The hay with the milk on top.”
+
+#### Daddy, go sit down
+- **Ava:** “Daddy. Go sit down somewhere.”
+
+#### Cleaning up toys
+- **Mom:** “Pick up these toys or I’m going to throw them away.”
+- **Ava:** “Fox, help me or Mama is gonna throw these away.”
+- **Fox:** “Uh huh.”
+- **Ava:** “You want her to throw these away?”
+- **Fox:** “Ya.”
+- **Ava:** “Well, good luck not having anything.”
+
+#### Christmas gifts for Nah and Grandpa
+- **Me:** “What should we get Nah?”
+- **Ava:** “I don’t know. She loves me, so I’ll just give her me.”
+- **Me:** “Okay, and what about Grandpa?”
+- **Ava:** “Ugh, that’s not a me problem. That’s a Daddy problem.”
+
+#### Baby hands
+While telling Ava to yeet her backpack for a video:
+- **Ava:** “I can’t yeet it. I have baby hands!”
+
+#### Last day of kindergarten
+- **Me:** “What color are you going to paint your parking space when you’re a senior?”
+- **Ava:** “Probably a mermeraid color.” *(mer-mer-aid)*
+
+#### Ilios Noche
+The waiter brings Ava her spaghetti.
+- **Ava:** “Thank you, love you!”
+
+#### Handing it quickly
+- **Daddy:** “Ava, don’t throw that at me.”
+- **Ava:** “I’m not throwing it. I’m handing it to you quickly.”
+
+### Fox
+
+*Reserved for memorable Fox quotes and stories.*
 
 ## UPDATE RULES
 
