@@ -376,7 +376,96 @@ The waiter brings Ava her spaghetti.
 
 ### Fox
 
-*Reserved for memorable Fox quotes and stories.*
+#### Fox-isms and pronunciations
+- Construction vehicles → **“hard work dirt”** *(from Danny Go)*
+- Ava → **“A-yah”**
+- Pockets → **“pop-its”**
+- Fingers → **“shangers”**
+- Chicago → **“percago”**
+- Disgusting → **“per-sgusting”**
+- Excuse me → **“percuse me”**
+- The ductwork in the attic → **“a spider”**
+- Around age 2, Fox would randomly say **“Edgar,”** so the family decided Edgar was his imaginary friend.
+- “Leave me alone” → **“Leave me my lone.”**
+
+#### Spooky ooky skeletons
+“Spooky Scary Skeletons” is a favorite song.
+- **Fox:** “Spooky ooky skeletons sugar down.” 🎵
+
+#### “Mommy, hold my wegs”
+At the movie *David* with Ava’s friends, including Beckett, Fox climbed into the seat in front of Mom, threw his feet into her lap, and tried to dangle over the chair to reach the armrest.
+- **Fox:** “Mommy, hold my wegs.”
+
+#### Beach trip — 2026
+
+About his pajamas:
+- **Fox:** “My costume is hurting.”
+
+Fox sees a kayak at the store behind the beach house:
+- **Fox:** “Look, it’s a hotdog car.”
+
+Later, after walking around the beach house and seeing the store through the window:
+- **Fox:** “That’s not a hotdog car.” 😂
+
+While watching TV as Mom and Nah are talking:
+- **Fox:** “All these people talking and I can’t hear.”
+
+#### Sharing with Ava
+Fox used some of his arcade tickets to get Bubble Tape gum to share with Ava. 🥹
+
+#### Dinner again and again — March 2026, age 3
+- **Mom:** “Dinner’s ready.”
+- **Fox:** “I already had dinner.”
+- **Mom:** “No you didn’t. What did you have?”
+- **Fox:** “Noodles… yogurt.”
+- **Mom:** “No, that was your lunch and your breakfast.”
+- **Fox:** “Ugh. Why eat dinner again and again and again?”
+
+#### “Don’t say ugly things to me”
+- **Fox:** “Are you done with homeschool?”
+- **Mom:** “No, not yet.”
+- **Fox:** “Ugh. Don’t say ugly things to me.”
+- **Mom:** “I didn’t say ugly things to you.”
+- **Fox:** “You said not done with homeschool. That’s ugly.” 😠
+
+#### “I not stink” — age 3
+- **Mom:** “Why are you so stinking cute?”
+- **Fox:** “Huh??” 🤨
+- *Fox sniffs his hand.*
+- **Fox:** “I not stink.”
+
+#### The mysterious hand injury
+- **Mom:** “Fox, tell Daddy what happened to your hand yesterday.”
+- **Fox:** “There was a rooster and it had a beak and it poked my hand.”
+- **Mom:** “Fox, no, that did not happen. Tell Daddy what happened to your hand.”
+- **Fox:** “There was a bad guy who came and cut my shanger.”
+- **Mom:** “You have not come across a rooster or a bad guy. Tell Daddy what happened to your hand.”
+- **Fox:** “Well, there was a robot…”
+- **Mom:** “Fox Rampey, you did that with a tape measure.” 🤦‍♀️
+
+#### “I wanted to nuggle you”
+Fox kept climbing into bed with Mom instead of sleeping with Daddy in the floor bed.
+- **Mom:** “Why did you get in my bed last night?”
+- **Fox:** “I wanted to nuggle you.”
+- **Mom:** “You didn’t want to nuggle Daddy?”
+- **Fox:** “No. He stinks.”
+- **Mom:** “Does Mommy stink?”
+- **Fox:** “No.”
+- **Mom:** “What do I smell like?”
+- **Fox:** “Grapes.”
+
+#### Making the booger disappear
+- **Fox:** “I’m going to make this booger disappear.”
+- **Ava:** “Well, just don’t eat it.”
+- **Fox:** “I not.” 🙄
+- **Fox:** “Okay, where is it?”
+- **Ava:** “It’s in your cup holder.”
+
+#### Home sweet Target
+Pulling up at Target, Fox takes a deep breath:
+- **Fox:** “Ahh, home sweet Target home.”
+- **Fox:** “Mommy, do this.”
+- *He takes the deep breath again.*
 
 ## UPDATE RULES
 
